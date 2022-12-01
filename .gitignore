@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+*-stats.csv
+
+# OS-specific files to exclude
+.DS_Store
+._.DS_Store
+desktop.ini
